@@ -331,8 +331,8 @@ const en: LocaleType = {
   NewChat: {
     Return: "Return",
     Skip: "Just Start",
-    Title: "Pick a Mask",
-    SubTitle: "Chat with the Soul behind the Mask",
+    Title: "IP-GPT",
+    SubTitle: "Boosting Innovation",
     More: "Find More",
     NotShow: "Never Show Again",
     ConfirmNoShow: "Confirm to disable？You can enable it in settings later.",
